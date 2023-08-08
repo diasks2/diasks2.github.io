@@ -1,9 +1,20 @@
-h1, h2, .nav {
+h1, h2, .nav, footer {
   font-family: 'Poppins', sans-serif;
 }
 
 body {
   font-family: 'Merriweather', serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  flex: 1;
+}
+
+footer {
+  flex-shrink: 0;
 }
 
 .active {
