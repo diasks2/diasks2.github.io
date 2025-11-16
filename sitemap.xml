@@ -408,4 +408,46 @@
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url>
+   <url>
+      <loc>https://www.kevinsdias.com/posts/lost-compass.html</loc>
+      <lastmod>2025-11-12</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://www.kevinsdias.com/posts/smallest-possible-change.html</loc>
+      <lastmod>2025-11-13</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://www.kevinsdias.com/posts/borrowed-confidence.html</loc>
+      <lastmod>2025-11-14</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://www.kevinsdias.com/posts/mesh-monster.html</loc>
+      <lastmod>2025-11-15</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://www.kevinsdias.com/posts/blackjack.html</loc>
+      <lastmod>2025-11-16</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://www.kevinsdias.com/posts/brunch-advantage.html</loc>
+      <lastmod>2025-11-17</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+   <url>
+      <loc>https://www.kevinsdias.com/posts/tiny-tests.html</loc>
+      <lastmod>2025-11-17</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
 </urlset>
